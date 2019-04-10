@@ -7,12 +7,12 @@
 GitHubリポジトリ内の.ipynbのファイルは、URLの https://github.com を https://colab.research.google.com/github に変換すると開いて実行できます。
 
 ## Book
-Booth:
+Booth:DL版1500円
+
+https://soneo.booth.pm/items/1311291
 
 ## Author
 
-[ポートフォリオ](https://soneo1127.github.io/)
+ポートフォリオ https://soneo1127.github.io/
 
-[Twitter](https://twitter.com/ATH_ray_)
-
-[Booth](https://twitter.com/ATH_ray_)
+Twitter https://twitter.com/ATH_ray_
