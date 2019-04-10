@@ -1,9 +1,13 @@
 # Quantum_computing_from_Zero
 
 ## Description
-技術書典6で頒布する「IBM QとBlueqatで　ゼロから始める量子コンピュータ」の付属コードです。
+技術書典6で頒布する「IBM QとBlueqatでゼロから始める量子コンピュータ」の付属コードです。
+
+## Book
+Booth:
 
 ## Author
 
-[soneo1127](https://github.com/soneo1127)
+[ポートフォリオ](https://soneo1127.github.io/)
+
 [Twitter](https://twitter.com/ATH_ray_)
